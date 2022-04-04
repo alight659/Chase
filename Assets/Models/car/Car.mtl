@@ -1,0 +1,9 @@
+newmtl car
+Kd 1 1 1
+d 1
+
+newmtl wheel
+map_Kd wheel 1.png
+Kd 1 1 1
+d 1
+
