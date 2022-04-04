@@ -1,0 +1,11 @@
+{
+"companyName": "Alight659",
+"productName": "Chase",
+"dataUrl": "ChaseHTML5.data.unityweb",
+"asmCodeUrl": "ChaseHTML5.asm.code.unityweb",
+"asmMemoryUrl": "ChaseHTML5.asm.memory.unityweb",
+"asmFrameworkUrl": "ChaseHTML5.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
