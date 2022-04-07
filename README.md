@@ -23,3 +23,10 @@ Save your car from the police cars and the traps they have setup.
 - [Download now](https://github.com/alight659/Chase/releases "Download now")
 - visit [alight659.github.io/Chase](https://alight659.github.io/Chase/ "https://alight659.github.io/Chase/") to play online.
 
+### Softwares Used
+- Unity 5.6
+- Blender
+- GIMP
+- LMMS
+- Audacity
+
