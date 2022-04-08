@@ -7,7 +7,7 @@
 Save your car from the police cars and the traps they have setup.
 
 ### System Requirements
-- A browser or any laptop device with a processor(x86 or x86_64)
+- A browser or any device with a processor(x86 or x86_64)
 
 ### Controls
 - Just have fun by moving your mouse horizontally😉.
